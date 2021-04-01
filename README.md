@@ -3,24 +3,24 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)      [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
 ### Description of the project : 
-Build two models (Neural Netowrk and Support Vector Machine) and an interface to classify traffic signs (GTSRB dataset)
+Build two models (**Neural Netowrk and Support Vector Machine**) and **an interface** to classify traffic signs (GTSRB dataset)
 
 ## To start the project properly
 * clone this repository
 * download images with 'scripts/download_images.sh'
 * download constants.py files with the label of each classes : the name of the panels
 * check requirements files : 
-    - requirements_NN.txt is useful for the reading_images notebook
-    - requirements_SVM.txt is useful for the SVM notebook
+    - **requirements_NN.txt** is useful for the reading_images notebook
+    - **requirements_SVM.txt** is useful for the SVM notebook
 
 
 ## To reproduce models 
 * for the Neural network :
-    - the whole code is on the folder notebook and it's reading_images.ipynb
-    - you can also just load the model : it is on the models folder and it's traffic_signs_2021-00-29_20-00-25.h5 
+    - the whole code is on the folder notebook and it's **reading_images.ipynb**
+    - you can also just load the model : it is on the models folder and it's **traffic_signs_2021-00-29_20-00-25.h5** 
 * for the SVM : 
-    - the whole code is on the folder notebook and it's SVM.ipynb
-    - you can also just load the model : it is on the models folder and it's SVM-traffic.jonlib (be careful the template is very heavy and may take some time to download) 
+    - the whole code is on the folder notebook and it's **SVM.ipynb**
+    - you can also just load the model : it is on the models folder and it's **SVM-traffic.jonlib** (be careful the template is very heavy and may take some time to download) 
 
 
 ## To reproduce the application 
