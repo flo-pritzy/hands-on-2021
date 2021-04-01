@@ -49,11 +49,11 @@ For the application, we have to install Dash :
 `` conda install -c conda-forge dash-bootstrap-components ``
 
 ## Auteurs
-Projet réalisé par Annabelle Filip et Florine Pritzy, classe de MAG3, Aix Marseille School of Economics
-Projet réalisé dans le cadre du cours de Big Data, de Monsieur Mignot. 
+- Projet réalisé par Annabelle Filip et Florine Pritzy, classe de MAG3, Aix Marseille School of Economics
+- Projet réalisé dans le cadre du cours de Big Data, de Monsieur Mignot. 
 
 ## References 
 
-"Dataset introduction : https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html
+* "Dataset introduction : https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html
 - Dataset created by Christian Igel
-"Images : https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370s/published-archive.html
+* "Images : https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370s/published-archive.html
