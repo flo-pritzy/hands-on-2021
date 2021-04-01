@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)      [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
-Description of the project : 
+### Description of the project : 
 Build two models (Neural Netowrk and Support Vector Machine) and an interface to classify traffic signs (GTSRB dataset)
 
 ## To start the project properly
@@ -55,5 +55,5 @@ Projet réalisé dans le cadre du cours de Big Data, de Monsieur Mignot.
 ## References 
 
 "Dataset introduction : https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html
-Dataset created by Christian Igel
+- Dataset created by Christian Igel
 "Images : https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370s/published-archive.html
